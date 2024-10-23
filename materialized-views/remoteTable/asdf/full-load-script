@@ -1,0 +1,1 @@
+SELECT * FROM exampleTable WHERE condition = true;

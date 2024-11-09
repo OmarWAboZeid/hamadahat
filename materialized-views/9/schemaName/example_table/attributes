@@ -1,0 +1,10 @@
+#Sun Nov 10 01:09:41 EET 2024
+tenantId=9
+isValidated=false
+incrementalMethod=1
+language=SQL
+schemaName=schemaName
+incrementalCol=updated_at
+incremental=true
+mvName=example_table
+onlyAllowVerifiedViews=false

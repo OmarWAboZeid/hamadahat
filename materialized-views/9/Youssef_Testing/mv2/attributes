@@ -1,0 +1,10 @@
+#Wed Nov 13 09:32:55 UTC 2024
+tenantId=9
+isValidated=true
+incrementalMethod=0
+language=sql
+schemaName=Youssef_Testing
+incrementalCol=
+incremental=false
+mvName=mv2
+onlyAllowVerifiedViews=false

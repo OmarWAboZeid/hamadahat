@@ -1,0 +1,10 @@
+#Wed Nov 13 19:39:14 UTC 2024
+tenantId=9
+isValidated=true
+incrementalMethod=0
+language=sql
+schemaName=Karim_Testing
+incrementalCol=
+incremental=true
+mvName=MV_WITH_ALL_ATTRS
+onlyAllowVerifiedViews=false

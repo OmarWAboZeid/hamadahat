@@ -1,0 +1,3 @@
+#Wed Nov 13 11:59:15 UTC 2024
+spark.executor.cores=2
+spark.cores.max=2

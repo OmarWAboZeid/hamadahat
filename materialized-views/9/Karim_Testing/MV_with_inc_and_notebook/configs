@@ -1,2 +1,2 @@
-#Wed Nov 13 10:48:02 UTC 2024
-spark.executor.cores=1
+#Wed Nov 13 10:55:48 UTC 2024
+spark.executor.cores=3
